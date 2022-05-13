@@ -2,12 +2,13 @@
     body {background-color: cadetblue;
     
     }
+
 /* Make the header and footer a different color from the background */
 footer {
     
     background-color: crimson;
     border-color: darkolivegreen;
-    padding: 3px;
+    padding: 30px;
 
 }
 header 
@@ -15,16 +16,19 @@ header
 {background-color: deeppink;
     border-color: grey;
     height: 50px;}
+
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center ;
 }
+
 /* Make your p tag a different color and italic */
 p {
     color: indigo;
     font-style: italic;
 
 }
+
 /* Put a border around your image */
 img {
     width: max-content;
@@ -35,6 +39,7 @@ img {
     margin: initial;
 
 }
+
 /* Change the font-family of your list */
 ul {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
